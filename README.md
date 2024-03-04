@@ -1,6 +1,6 @@
-# :Rocket: Ikomia API Notebooks Collection
+#  :milky_way: Ikomia API Notebooks Collection
 
-Welcome to the Ikomia API Notebooks Collection! :star: Explore our wide range of Jupyter notebooks for computer vision tasks, including object detection, segmentation, classification, and more. 
+:star: Welcome to the Ikomia API Notebooks Collection!  Explore our wide range of Jupyter notebooks for computer vision tasks, including object detection, segmentation, classification, and more. 
 
 ## Documentation Notebook
 
