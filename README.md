@@ -37,15 +37,17 @@
 | [Use MMSegmentation](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_MMSegmentation_with_Ikomia_API.ipynb) |Shows how to use the MMsegmentation toolkit | 
 | [Use MobileSAM](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_MobileSAM_with_Ikomia_API.ipynb) |Shows how to run the Faster Segment Anything Model | 
 | [Train YOLO v8 segmentation](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v8_seg_with_Ikomia_API_coral_dataset.ipynb) |Shows how to fine-tuned YOLOv8 instance segmentation on a coral dataset | 
+| [RUN YOLOv9 & SAM](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_YOLOv9_and_SAM_with_Ikomia_API.ipynb) |Shows how to create a workflow using object detection with YOLOv9 - object filtering by class - and segmentation with mobile_sam or SAM | 
+
 
 
 ## Classification
 
 | Notebook |   Description      |
 |:----------|:-------------|
-| [Run Faster R-CNN](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Faster_R-CNN_with_Ikomia_API.ipynb) | | |
+| [Run Faster R-CNN](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Faster_R-CNN_with_Ikomia_API.ipynb) | |
 | [Run ResNext](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_ResNext_with_Ikomia_API.ipynb) | | |
-| [Train Classification Model](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_Classification_Model_with_Ikomia_API.ipynb) | | |
+| [Train Classification Model](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_Classification_Model_with_Ikomia_API.ipynb) | |
 
 ## Diffusion & Image Art
 
