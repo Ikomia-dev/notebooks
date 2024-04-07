@@ -21,6 +21,7 @@
 | [Train YOLOR construction safety dataset](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLOR_with_Ikomia_API_construction_safety_dataset%20.ipynb) | Shows how to train to fine-tune a YOLOR model on a safety construction dataset| 
 | [Train YOLO v7](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v7_with_Ikomia_API.ipynb) |Shows how to train to fine-tune a YOLOv7 model on aerial airplane dataset | 
 | [Train YOLO v9](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v9_with_Ikomia_API.ipynb) | Shows how to train to fine-tune a YOLOv9 model on a basketball dataset| 
+| [Use YOLO-World](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_YOLO_World_with_Ikomia_API.ipynb) | Shows YOLO-World for zero-shot object detection| 
 
 
 
@@ -37,7 +38,7 @@
 | [Use MMSegmentation](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_MMSegmentation_with_Ikomia_API.ipynb) |Shows how to use the MMsegmentation toolkit | 
 | [Use MobileSAM](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_MobileSAM_with_Ikomia_API.ipynb) |Shows how to run the Faster Segment Anything Model | 
 | [Train YOLO v8 segmentation](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v8_seg_with_Ikomia_API_coral_dataset.ipynb) |Shows how to fine-tuned YOLOv8 instance segmentation on a coral dataset | 
-| [RUN YOLOv9 & SAM](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_YOLOv9_and_SAM_with_Ikomia_API.ipynb) |Shows how to create a workflow using object detection with YOLOv9 - object filtering by class - and segmentation with mobile_sam or SAM | 
+| [Use YOLO v9 & SAM](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_YOLOv9_and_SAM_with_Ikomia_API.ipynb) |Shows how to create a workflow using object detection with YOLOv9 - object filtering by class - and segmentation with mobile_sam or SAM | 
 
 
 
@@ -57,6 +58,7 @@
 | [Run Kandinsky](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Kandinsky_with_Ikomia_API.ipynb) | | 
 | [Run Stable Diffusion](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Stable_Diffusion_with_Ikomia_API.ipynb) | | 
 | [Use SAM and SD inpaint](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_SAM_and_SD_inpaint_with_Ikomia_API.ipynb) | |
+| [Run Stable Cascade](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Stable_Cascade_with_Ikomia_API.ipynb) | |
 
 ## Background Removal
 
@@ -98,3 +100,4 @@
 |:----------|:-------------|
 | [Use Canny](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_Canny_with_Ikomia_API.ipynb) ||
 | [Use Google Cloud Vision API](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_Google_Cloud_Vision_API_with_Ikomia_API.ipynb) ||
+| [Use Depth Anything](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Depth_Anything_with_Ikomia_API.ipynb) ||
