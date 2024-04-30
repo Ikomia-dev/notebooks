@@ -59,6 +59,8 @@
 | [Run Stable Diffusion](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Stable_Diffusion_with_Ikomia_API.ipynb) | | 
 | [Use SAM and SD inpaint](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_SAM_and_SD_inpaint_with_Ikomia_API.ipynb) | |
 | [Run Stable Cascade](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Stable_Cascade_with_Ikomia_API.ipynb) | |
+| [Run and deploy Face inpainting](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_deploy_Ikomia_SCALE_face_inpainting.ipynb) | |
+
 
 ## Background Removal
 
@@ -92,6 +94,7 @@
 | Notebook |   Description      |
 |:----------|:-------------|
 | [Use MMOCR](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_MMOCR_with_Ikomia_API.ipynb) | |
+| [Run and deploy MMOCR](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_deploy_Ikomia_SCALE_text_extraction.ipynb) | |
 
 
 ## Other
