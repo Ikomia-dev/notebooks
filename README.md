@@ -9,6 +9,7 @@
 | [Make a simple workflow](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_make_a_simple_workflow_with_Ikomia_API.ipynb) |Learn how to use the Ikomia API to easily prototype some Computer Vision workflows |
 | [Ikomia SCALE welcome on board](https://github.com/Ikomia-dev/notebooks/blob/main/examples/Ikomia_SCALE_welcome_on_board.ipynb) |Shows how to get started with Ikomia SCALE, a SaaS platform for deploying Ikomia workflows on dedicated endpoints| 
 
+
 ## Object Detection
 
 | Notebook |   Description      |
@@ -22,6 +23,8 @@
 | [Train YOLO v7](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v7_with_Ikomia_API.ipynb) |Shows how to train to fine-tune a YOLOv7 model on aerial airplane dataset | 
 | [Train YOLO v9](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v9_with_Ikomia_API.ipynb) | Shows how to train to fine-tune a YOLOv9 model on a basketball dataset| 
 | [Use YOLO-World](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_YOLO_World_with_Ikomia_API.ipynb) | Shows YOLO-World for zero-shot object detection| 
+| [Train YOLO v10](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v10_with_Ikomia_API.ipynb) | Shows how to train to fine-tune a YOLOv10 model on a Chess pieces dataset| 
+
 
 
 
