@@ -8,6 +8,8 @@
 |:----------|:-------------|
 | [Make a simple workflow](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_make_a_simple_workflow_with_Ikomia_API.ipynb) |Learn how to use the Ikomia API to easily prototype some Computer Vision workflows |
 | [Ikomia SCALE welcome on board](https://github.com/Ikomia-dev/notebooks/blob/main/examples/Ikomia_SCALE_welcome_on_board.ipynb) |Shows how to get started with Ikomia SCALE, a SaaS platform for deploying Ikomia workflows on dedicated endpoints| 
+| [Ikomia SCALE - Deploy FLUX.1](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_deploy_Ikomia_SCALE_FLUX1.ipynb) |End-to-end example for deploying text-to-image models on dedicated endpoints| 
+
 
 
 ## Object Detection
@@ -22,8 +24,10 @@
 | [Train YOLOR construction safety dataset](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLOR_with_Ikomia_API_construction_safety_dataset%20.ipynb) | Shows how to train to fine-tune a YOLOR model on a safety construction dataset| 
 | [Train YOLO v7](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v7_with_Ikomia_API.ipynb) |Shows how to train to fine-tune a YOLOv7 model on aerial airplane dataset | 
 | [Train YOLO v9](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v9_with_Ikomia_API.ipynb) | Shows how to train to fine-tune a YOLOv9 model on a basketball dataset| 
-| [Use YOLO-World](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_YOLO_World_with_Ikomia_API.ipynb) | Shows YOLO-World for zero-shot object detection| 
+| [Use YOLO-World](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_YOLO_World_with_Ikomia_API.ipynb) | Shows how to use YOLO-World for zero-shot object detection| 
 | [Train YOLO v10](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v10_with_Ikomia_API.ipynb) | Shows how to train to fine-tune a YOLOv10 model on a Chess pieces dataset| 
+| [Use OWLv2](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_OWLv2_with_Ikomia_API.ipynb) | Shows how to use OWLv2 for zero-shot object detection| 
+
 
 
 
@@ -42,6 +46,7 @@
 | [Use MobileSAM](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_MobileSAM_with_Ikomia_API.ipynb) |Shows how to run the Faster Segment Anything Model | 
 | [Train YOLO v8 segmentation](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_train_YOLO_v8_seg_with_Ikomia_API_coral_dataset.ipynb) |Shows how to fine-tuned YOLOv8 instance segmentation on a coral dataset | 
 | [Use YOLO v9 & SAM](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_YOLOv9_and_SAM_with_Ikomia_API.ipynb) |Shows how to create a workflow using object detection with YOLOv9 - object filtering by class - and segmentation with mobile_sam or SAM | 
+| [Use SAM2](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_SAM_2_with_Ikomia_API.ipynb) |Shows how to run SAM2 | 
 
 
 
@@ -107,3 +112,5 @@
 | [Use Canny](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_Canny_with_Ikomia_API.ipynb) ||
 | [Use Google Cloud Vision API](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_use_Google_Cloud_Vision_API_with_Ikomia_API.ipynb) ||
 | [Use Depth Anything](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Depth_Anything_with_Ikomia_API.ipynb) ||
+| [Use Florence-2](https://github.com/Ikomia-dev/notebooks/blob/main/examples/HOWTO_run_Florence_2_with_Ikomia_API.ipynb) ||
+
